@@ -1,2 +1,4 @@
 John
 나누기
+Mary
+Clara
